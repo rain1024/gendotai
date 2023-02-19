@@ -29,7 +29,8 @@ Text-to-image model capable of generating photo-realistic images given any text 
 
 <details>
     <summary>
-        <b><a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></b> (🌟) - An Open Source Machine Learning Framework for Everyone.
+        <b><a href="[https://github.com/tensorflow/tensorflow](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022)">Stable Diffusion 2.1</a></b> (🌟) 
+	    - An Open Source Machine Learning Framework for Everyone.
         <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code>
     </summary>
 

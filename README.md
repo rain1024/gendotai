@@ -9,11 +9,11 @@
 
 <p align="center">
     <a href="#" title="Best-of-badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/products-7-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/products-awesome-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
 </p>
 
-Open and accessibility generative AI
+This is curated list of open and accessible generative AI products that can be used by anyone, regardless of their technical background. The aim of this project is to highlight the most innovative and user-friendly generative AI models that have the potential to unlock new forms of creativity and drive innovation in various fields. By compiling this list, we hope to encourage more individuals and communities to engage with generative AI and explore its possibilities.
 
 🌟 **Breakthrough**
 

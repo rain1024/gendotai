@@ -37,7 +37,7 @@ Text-to-image model capable of generating photo-realistic images given any text 
     </summary>
 <br/>
 
-* [Website](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) *Dec 2022*
+* [Website](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) ⏱️ Dec 2022
 
 <br/>
 </details>
@@ -49,7 +49,7 @@ Text-to-image model capable of generating photo-realistic images given any text 
     </summary>
 <br/>
 	
-* [Website](https://midjourney.com) *Mid 2022*
+* [Website](https://midjourney.com) ⏱️ Mid 2022
 
 <br/>
 </details>

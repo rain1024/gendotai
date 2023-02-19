@@ -9,8 +9,8 @@ ChatGPT Prompts
 > For the topic above, brainstorms new ideas and approaches. Prioritize ideas that are uncommon or novel.
 
 <details>
-  <summary>Answer</summary>
-
+  <summary> &nbsp Answer</summary>
+<br/>
 <p> 
 1. Use an AI-powered video editing tool that can analyze existing YouTube content to identify trends and create new content that follows those trends.<br/>
 2. Develop an AI model that can identify gaps in the market and generate new video concepts that have high potential for engagement.<br/>

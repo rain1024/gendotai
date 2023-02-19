@@ -21,7 +21,7 @@ This is curated list of open and accessible generative AI products that can be u
 
 ## Contents
 
-* [Image Generation]()
+* [Image Generation](#image-generation)
 
 ## Image Generation
 

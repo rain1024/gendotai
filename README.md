@@ -20,4 +20,4 @@ Open and accessibility generative AI
 
 ## Video Generation
 
-## Tutorial
+## Miscellaneous

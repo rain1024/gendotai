@@ -78,6 +78,8 @@ Text generation can be used for anything from chatbots to automated content crea
 
 ## Audio Generation
 
+* [Murf.ai](https://murf.ai/) - AI realistic text-to-speech voice generator ($228/year)
+
 ## Video Generation
 
 ## Miscellaneous

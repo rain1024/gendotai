@@ -13,4 +13,6 @@ Open and accessibility generative AI
 
 ## Text Generation
 
+* https://chat.openai.com/chat
+
 ## Video Generation

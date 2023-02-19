@@ -61,6 +61,8 @@ Text-to-image model capable of generating photo-realistic images given any text 
 
 ## Text Generation
 
+Text generation can be used for anything from chatbots to automated content creation for websites or social media.
+
 <details>
     <summary>
         <b><a href="https://chat.openai.com/chat">OpenAI ChatGPT</a></b>

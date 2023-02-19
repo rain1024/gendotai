@@ -32,25 +32,46 @@ Text-to-image model capable of generating photo-realistic images given any text 
 
 <details>
     <summary>
-        <b>
-		<a href="[https://github.com/tensorflow/tensorflow](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022)">Stable Diffusion 2.1
-	</a></b>
+        <b><a href="https://stability.ai/blog/stablediffusion2-1-release7-dec-2022">Stable Diffusion 2.1</a></b>
 	(🌟) - latest text-to-image model from StabilityAI
     </summary>
+<br/>
 
-- 
-	```
+* [Website](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) *Dec 2022*
+
+<br/>
 </details>
 
-* 🌟 [Stable Diffusion v2.1](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) *Dec 2022*
+<details>
+    <summary>
+        <b><a href="https://midjourney.com/">Midjourney</a></b>
+	(🌟) - An artificial intelligence art generation service
+    </summary>
+<br/>
+	
+* [Website](https://midjourney.com) *Mid 2022*
+
+<br/>
+</details>
+
+**Websites**
+
 * [Prompt Hero](https://prompthero.com/)
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-* 🌟 [Midjourney](https://midjourney.com/) *2022*
 
 ## Text Generation
 
-* 🌟 [OpenAI ChatGPT](https://chat.openai.com/chat) *Dec 2022*
-  * [Tutorials](tutorials/chatgpt.md)
+<details>
+    <summary>
+        <b><a href="https://chat.openai.com/chat">OpenAI ChatGPT</a></b>
+	(🌟) - A powerful AI bot that engages in human-like dialogue based on a prompt
+    </summary>
+<br/>
+
+* [Tutorials](tutorials/chatgpt.md)
+
+<br/>
+</details>
 
 ## Audio Generation
 

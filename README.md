@@ -27,6 +27,31 @@ This is curated list of open and accessible generative AI products that can be u
 
 Text-to-image model capable of generating photo-realistic images given any text input
 
+<details>
+    <summary>
+        <b><a href="https://github.com/tensorflow/tensorflow">Tensorflow</a></b> (🌟) - An Open Source Machine Learning Framework for Everyone.
+        <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code>
+    </summary>
+
+- [GitHub](https://github.com/tensorflow/tensorflow) (👨‍💻 4.3K · 🔀 88K · 📦 250K · 📋 37K - 6% open · ⏱️ 16.02.2023):
+
+	```
+	git clone https://github.com/tensorflow/tensorflow
+	```
+- [PyPi](https://pypi.org/project/tensorflow) (📥 16M / month · 📦 15K · ⏱️ 18.11.2022):
+	```
+	pip install tensorflow
+	```
+- [Conda](https://anaconda.org/conda-forge/tensorflow) (📥 4M · ⏱️ 08.01.2023):
+	```
+	conda install -c conda-forge tensorflow
+	```
+- [Docker Hub](https://hub.docker.com/r/tensorflow/tensorflow) (📥 71M · ⭐ 2.1K · ⏱️ 16.02.2023):
+	```
+	docker pull tensorflow/tensorflow
+	```
+</details>
+
 * 🌟 [Stable Diffusion v2.1](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) *Dec 2022*
 * [Prompt Hero](https://prompthero.com/)
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)

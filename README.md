@@ -14,7 +14,7 @@ Open and accessibility generative AI
 
 ## Text Generation
 
-* https://chat.openai.com/chat 
+* [OpenAI ChatGPT](https://chat.openai.com/chat) `Dec 2022`
 
 ## Video Generation
 

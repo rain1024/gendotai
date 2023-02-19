@@ -25,12 +25,14 @@ This is curated list of open and accessible generative AI products that can be u
 
 ## Image Generation
 
-* [Prompt Hero](https://prompthero.com/)
-* 🌟 [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
-* 🌟 [Stable Diffusion v2.1](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) *Dec 2022*
-* [Midjourney](https://midjourney.com/) *2022*
+Text-to-image model capable of generating photo-realistic images given any text input
 
-## Sound Generation
+* 🌟 [Stable Diffusion v2.1](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) *Dec 2022*
+* [Prompt Hero](https://prompthero.com/)
+* [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* 🌟 [Midjourney](https://midjourney.com/) *2022*
+
+## Audio Generation
 
 ## Text Generation
 

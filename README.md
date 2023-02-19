@@ -4,10 +4,8 @@
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; A ranked list of awesome machine learning Python libraries. Updated weekly.</strong>
+    <strong>🏆&nbsp; A curated list of awesome Generative AI products. Updated weekly.</strong>
 </p>
-🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
-# 🏆 Generative AI
 
 Open and accessibility generative AI
 

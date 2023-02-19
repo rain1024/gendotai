@@ -2,7 +2,7 @@
 
 Open and accessibility generative AI
 
-🌟 Breakthrough
+🌟 **Breakthrough**
 
 ## Image Generation
 

@@ -22,6 +22,9 @@ This is curated list of open and accessible generative AI products that can be u
 ## Contents
 
 * [Image Generation](#image-generation)
+* [Text Generation](#text-generation)
+* [Audio Generation](#text-generation)
+* [Video Generation](#text-generation)
 
 ## Image Generation
 
@@ -29,27 +32,13 @@ Text-to-image model capable of generating photo-realistic images given any text 
 
 <details>
     <summary>
-        <b><a href="[https://github.com/tensorflow/tensorflow](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022)">Stable Diffusion 2.1</a></b> (🌟) 
-	    - An Open Source Machine Learning Framework for Everyone.
-        <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code><img src="https://git.io/JLy1A" style="display:inline;" width="13" height="13"></code>
+        <b>
+		<a href="[https://github.com/tensorflow/tensorflow](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022)">Stable Diffusion 2.1
+	</a></b>
+	(🌟) - latest text-to-image model from StabilityAI
     </summary>
 
-- [GitHub](https://github.com/tensorflow/tensorflow) (👨‍💻 4.3K · 🔀 88K · 📦 250K · 📋 37K - 6% open · ⏱️ 16.02.2023):
-
-	```
-	git clone https://github.com/tensorflow/tensorflow
-	```
-- [PyPi](https://pypi.org/project/tensorflow) (📥 16M / month · 📦 15K · ⏱️ 18.11.2022):
-	```
-	pip install tensorflow
-	```
-- [Conda](https://anaconda.org/conda-forge/tensorflow) (📥 4M · ⏱️ 08.01.2023):
-	```
-	conda install -c conda-forge tensorflow
-	```
-- [Docker Hub](https://hub.docker.com/r/tensorflow/tensorflow) (📥 71M · ⭐ 2.1K · ⏱️ 16.02.2023):
-	```
-	docker pull tensorflow/tensorflow
+- 
 	```
 </details>
 
@@ -58,12 +47,12 @@ Text-to-image model capable of generating photo-realistic images given any text 
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
 * 🌟 [Midjourney](https://midjourney.com/) *2022*
 
-## Audio Generation
-
 ## Text Generation
 
 * 🌟 [OpenAI ChatGPT](https://chat.openai.com/chat) *Dec 2022*
   * [Tutorials](tutorials/chatgpt.md)
+
+## Audio Generation
 
 ## Video Generation
 

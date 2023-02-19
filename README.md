@@ -12,3 +12,5 @@ Open and accessibility generative AI
 ## Sound Generation
 
 ## Text Generation
+
+## Video Generation

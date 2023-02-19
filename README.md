@@ -7,6 +7,12 @@
     <strong>🏆&nbsp; A curated list of awesome Generative AI products. Updated weekly.</strong>
 </p>
 
+<p align="center">
+    <a href="#" title="Best-of-badge"><img src="http://bit.ly/3o3EHNN"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/products-7-blue.svg?color=5ac4bf"></a>
+    <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
+</p>
+
 Open and accessibility generative AI
 
 🌟 **Breakthrough**

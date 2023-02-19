@@ -38,6 +38,7 @@ Text-to-image model capable of generating photo-realistic images given any text 
 <br/>
 
 * [Website](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) ⏱️ Dec 2022
+* [Tutorials](tutorials/stable_diffusion.md)
 
 <br/>
 </details>

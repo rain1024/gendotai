@@ -8,11 +8,14 @@ Open and accessibility generative AI
 
 * [Prompt Hero](https://prompthero.com/)
 * [Stable Diffusion WebUI](https://github.com/AUTOMATIC1111/stable-diffusion-webui)
+* [Stable Diffusion](https://stability.ai/blog/stablediffusion2-1-release7-dec-2022) `Dec 2022`
 
 ## Sound Generation
 
 ## Text Generation
 
-* https://chat.openai.com/chat
+* https://chat.openai.com/chat 
 
 ## Video Generation
+
+## Tutorial

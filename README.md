@@ -94,4 +94,8 @@ Text generation can be used for anything from chatbots to automated content crea
 
 ## Video Generation
 
+Tutorials
+
+* 2023, [Create a 3D World using AI Images](https://www.youtube.com/watch?v=5ntdkwAt3Uw&ab_channel=PromptMuse), PromptMuse
+
 ## Miscellaneous

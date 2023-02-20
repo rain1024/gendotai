@@ -67,6 +67,18 @@ Text-to-image model capable of generating photo-realistic images given any text 
 <br/>
 </details>
 
+<details>
+    <summary>
+        <b><a href="https://playgroundai.com/">Playground AI</a></b>
+	(🌟) - Free-to-use online AI image creator. 
+    </summary>
+<br/>
+	
+* [Website](https://playgroundai.com/)
+
+<br/>
+</details>
+
 **Websites**
 
 * [Prompt Hero](https://prompthero.com/)

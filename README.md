@@ -55,6 +55,18 @@ Text-to-image model capable of generating photo-realistic images given any text 
 <br/>
 </details>
 
+<details>
+    <summary>
+        <b><a href="https://lexica.art/">Lexica Art</a></b>
+	(🌟) - The Stable Diffusion Search Engine & Generation
+    </summary>
+<br/>
+	
+* [Website](https://lexica.art/) ⏱️ 2022
+
+<br/>
+</details>
+
 **Websites**
 
 * [Prompt Hero](https://prompthero.com/)

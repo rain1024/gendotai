@@ -45,6 +45,18 @@ Text-to-image model capable of generating photo-realistic images given any text 
 
 <details>
     <summary>
+        <b><a href="https://openai.com/product/dall-e-2">DALL-E</a></b>
+	(🌟) - an AI system that can create realistic images and art from a description in natural language.
+    </summary>
+<br/>
+
+* [DALL·E: Creating images from text](https://openai.com/research/dall-e) ⏱️ 2022
+
+<br/>
+</details>
+
+<details>
+    <summary>
         <b><a href="https://midjourney.com/">Midjourney</a></b>
 	(🌟) - An artificial intelligence art generation service
     </summary>

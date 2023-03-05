@@ -107,7 +107,7 @@ Text generation can be used for anything from chatbots to automated content crea
     </summary>
 <br/>
 
-* [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
+* 2023, [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis), OpenAI
 * [Tutorials](tutorials/chatgpt.md)
 
 <br/>

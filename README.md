@@ -61,8 +61,10 @@ Text-to-image model capable of generating photo-realistic images given any text 
 	(🌟) - An artificial intelligence art generation service
     </summary>
 <br/>
-	
+
+* [Prompts](/midjourney/PROMPTS.md)
 * [Website](https://midjourney.com) ⏱️ Mid 2022
+
 
 <br/>
 </details>

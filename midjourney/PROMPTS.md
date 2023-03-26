@@ -1,5 +1,7 @@
 # Try
 
+type of photography, lens, distance, subject
+
 > portrait phography, vietnamese woman, 35mm lens
 
 

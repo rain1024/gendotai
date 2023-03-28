@@ -31,7 +31,7 @@ Color Correction, ultrahd, hdr, color grading, 8k, --ar 4:5 --q 2 --s 750
 </tr>
 <tr>
   <td><img src="mid_v1_p1.webp" height="200"/></td>
-  <td><img src="mid_v2_p1.webp" height="200"/></td>
+  <td><img src="mid_v2_p1.png" height="200"/></td>
   <td><img src="mid_v3_p1.webp" height="200"/></td>
   <td><img src="mid_v4_p1.webp" height="200"/></td>
   <td><img src="mid_v5_p1.webp" height="200"/></td>

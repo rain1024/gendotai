@@ -67,4 +67,5 @@ Color Correction, ultrahd, hdr, color grading, 8k, --ar 4:5 --q 2 --s 750
 
 ## References
 
+* [Comparison --v4 and --v5 MidJourney](https://www.youtube.com/watch?v=laZX2JBxSas&ab_channel=ITrepeat)
 * [All MIDJOURNEY Comparison --v1 --v2 --v3 --v4 --v5](https://www.youtube.com/watch?v=y_GGw4dglVU&ab_channel=ITrepeat)

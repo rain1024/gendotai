@@ -57,7 +57,7 @@ Text-to-image model capable of generating photo-realistic images given any text 
 
 <details>
     <summary>
-        <b><a href="https://midjourney.com/">Midjourney</a></b>
+        <b><a href="/midjourney/README.md">Midjourney</a></b>
 	(🌟) - An artificial intelligence art generation service
     </summary>
 <br/>

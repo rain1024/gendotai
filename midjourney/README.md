@@ -43,9 +43,6 @@
 <td></td>
 <td></td>
 </tr>
-<tr>
-
-</tr>
 </table>
 
 ### A comparative analysis of versions

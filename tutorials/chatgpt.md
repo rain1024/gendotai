@@ -25,3 +25,14 @@ ChatGPT Prompts
 </p>
 </details>
 
+## Midjourney Prompts
+
+<details>
+  <summary> &nbsp Prompts</summary>
+<br/>
+
+```
+abc
+```
+  
+</details>

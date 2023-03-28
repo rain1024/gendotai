@@ -1,4 +1,4 @@
-# Try
+# Midjourney Prompts
 
 type of photography, lens, distance, subject
 

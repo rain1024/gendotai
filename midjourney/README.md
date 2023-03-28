@@ -3,10 +3,38 @@
 <table>
 <tr>
 <th></th>
-<th>Release</th>
+<th>Version 5</th>
+<th>Version 4</th>
+<th>Version 3</th>
+<th>Version 2</th>
+<th>Version 1</th>
 </tr>
 <tr>
-<td>Version 5</td>
+<td>Release</td>
+<td>March 2023</td>
+<td>November 2022</td>
+<td>July 2022</td>
+<td>April 2022</td>
+<td>March 2022</td>
+</tr>
+<tr>
+<td>Hands</td>
+<td>Ok</td>
+<td>Bad</td>
+<td>Bad</td>
+<td>Bad</td>
+<td>Bad</td>
+</tr>
+<tr>
+<td>Text</td>
+<td>Bad</td>
+<td>Bad</td>
+<td>Bad</td>
+<td>Bad</td>
+<td>Bad</td>
+</tr>
+<tr>
+
 </tr>
 </table>
 
@@ -22,19 +50,18 @@ Color Correction, ultrahd, hdr, color grading, 8k, --ar 4:5 --q 2 --s 750
 ```
 
 <table>
-<tr>
-<th>V1</th>
-<th>V2</th>
-<th>V3</th>
-<th>V4</th>
-<th>V5</th>
+<th><center>V5</center></th>
+<th><center>V4</center></th>
+<th><center>V3</center></th>
+<th><center>V2</center></th>
+<th><center>V1</center></th>
 </tr>
 <tr>
-  <td><img src="mid_v1_p1.webp" height="200"/></td>
-  <td><img src="mid_v2_p1.png" height="200"/></td>
-  <td><img src="mid_v3_p1.webp" height="200"/></td>
-  <td><img src="mid_v4_p1.webp" height="200"/></td>
-  <td><img src="mid_v5_p1.webp" height="200"/></td>
+<td><img src="mid_v5_p1.png" height="200"/></td>
+<td><img src="mid_v4_p1.png" height="200"/></td>
+<td><img src="mid_v3_p1.png" height="200"/></td>
+<td><img src="mid_v2_p1.png" height="200"/></td>
+<td><img src="mid_v1_p1.webp" height="200"/></td>
 </tr>
 </table>
 

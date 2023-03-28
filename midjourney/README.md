@@ -48,10 +48,12 @@
 </tr>
 </table>
 
-Version comparision with prompt
+### A comparative analysis of versions
+
+**Prompt 1**: An attractive woman in her 20's
 
 ```
-Prompt 1: /imagine
+/imagine
 An attractive woman in her 20's, with light skin, natural, no make up, natural inperfections, hazel colored 
 eyes, lush light brown hair, the photo should be half-length portrait, shallow depth of field to emphsize the subject, 
 taken using a Conon EOS R camera with a 50mm f/1.8 lens, f/2.2 aperture, shutter speech 1/200s, ISO 100 and a lot of 

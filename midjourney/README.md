@@ -1,5 +1,7 @@
 # Midjourney
 
+* 5 levels: `Terrible`, `Poor`, `Average`, `Good`, `Excellent`
+
 <table>
 <tr>
 <th></th>
@@ -19,23 +21,23 @@
 </tr>
 <tr>
 <td>Hands</td>
-<td>Poor</td>
-<td>Bad</td>
-<td>Bad</td>
-<td>Bad</td>
-<td>Bad</td>
+<td><code>Poor</code></td>
+<td><code>Terrible</code></td>
+<td><code>Terrible</code></td>
+<td><code>Terrible</code></td>
+<td><code>Terrible</code></td>
 </tr>
 <tr>
 <td>Text</td>
-<td>Bad</td>
-<td>Bad</td>
-<td>Bad</td>
-<td>Bad</td>
-<td>Bad</td>
+<td><code>Terrible</code></td>
+<td><code>Terrible</code></td>
+<td><code>Terrible</code></td>
+<td><code>Terrible</code></td>
+<td><code>Terrible</code></td>
 </tr>
 <tr>
 <td>Create specific element<br/>remember and put<br/>on future works</td>
-<td>Terrible</td>
+<td><code>Terrible</code></td>
 <td></td>
 <td></td>
 <td></td>

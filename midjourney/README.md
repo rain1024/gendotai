@@ -19,7 +19,7 @@
 </tr>
 <tr>
 <td>Hands</td>
-<td>Ok</td>
+<td>Poor</td>
 <td>Bad</td>
 <td>Bad</td>
 <td>Bad</td>
@@ -35,7 +35,7 @@
 </tr>
 <tr>
 <td>Create specific element<br/>remember and put<br/>on future works</td>
-<td>No</td>
+<td>Terrible</td>
 <td></td>
 <td></td>
 <td></td>

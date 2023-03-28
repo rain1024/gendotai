@@ -12,3 +12,8 @@ type of photography, lens, distance, subject
 ## Consistence Characters
 
 * Create Consistent MidJourney Characters Like This, https://www.youtube.com/watch?v=qsxWrGm8ox8&ab_channel=Maximize
+
+
+## ChatGPT and Midjourney
+
+* https://www.youtube.com/watch?v=8qv-RXqUCgQ&ab_channel=BowlofAI

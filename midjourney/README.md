@@ -25,13 +25,16 @@ Color Correction, ultrahd, hdr, color grading, 8k, --ar 4:5 --q 2 --s 750
 <tr>
 <th>V1</th>
 <th>V2</th>
+<th>V3</th>
+<th>V4</th>
+<th>V5</th>
 </tr>
 <tr>
-<td>
-<img src="mid_v1_p1.webp" height="200"/>
-<img src="mid_v2_p1.webp" height="200"/>
-<img src="mid_v3_p2.webp" height="200"/>
-</td>
+  <td><img src="mid_v1_p1.webp" height="200"/></td>
+  <td><img src="mid_v2_p1.webp" height="200"/></td>
+  <td><img src="mid_v3_p1.webp" height="200"/></td>
+  <td><img src="mid_v4_p1.webp" height="200"/></td>
+  <td><img src="mid_v5_p1.webp" height="200"/></td>
 </tr>
 </table>
 

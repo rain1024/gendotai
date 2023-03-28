@@ -9,6 +9,16 @@ type of photography, lens, distance, subject
 * https://www.masterclass.com/articles/basic-photography-101-understanding-camera-lenses#7mIJVHiHhqcG1c4GPznBTa
 
 
+## Gallery
+
+<table>
+<td>
+
+<br/>
+Portrait
+</td>
+</tr>
+</table>
 ## Consistence Characters
 
 * Create Consistent MidJourney Characters Like This, https://www.youtube.com/watch?v=qsxWrGm8ox8&ab_channel=Maximize

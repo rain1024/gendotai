@@ -34,7 +34,7 @@
 <td>Bad</td>
 </tr>
 <tr>
-<td>Create specific element<br/>remember them and<br/>put them on future works</td>
+<td>Create specific element<br/>remember and put<br/>on future works</td>
 <td>No</td>
 <td></td>
 <td></td>

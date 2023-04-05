@@ -36,6 +36,20 @@ Text-to-image model capable of generating photo-realistic images given any text 
 
 <details>
     <summary>
+        <b><a href="/midjourney/README.md">Midjourney</a></b>
+	(🌟) - An artificial intelligence art generation service
+    </summary>
+<br/>
+
+* [Prompts](/midjourney/PROMPTS.md)
+* [Website](https://midjourney.com) ⏱️ Mid 2022
+
+
+<br/>
+</details>
+
+<details>
+    <summary>
         <b><a href="https://stability.ai/blog/stablediffusion2-1-release7-dec-2022">Stable Diffusion 2.1</a></b>
 	(🌟) - latest text-to-image model from StabilityAI
     </summary>
@@ -55,20 +69,6 @@ Text-to-image model capable of generating photo-realistic images given any text 
 <br/>
 
 * [DALL·E: Creating images from text](https://openai.com/research/dall-e) ⏱️ 2022
-
-<br/>
-</details>
-
-<details>
-    <summary>
-        <b><a href="/midjourney/README.md">Midjourney</a></b>
-	(🌟) - An artificial intelligence art generation service
-    </summary>
-<br/>
-
-* [Prompts](/midjourney/PROMPTS.md)
-* [Website](https://midjourney.com) ⏱️ Mid 2022
-
 
 <br/>
 </details>

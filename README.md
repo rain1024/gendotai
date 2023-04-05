@@ -13,6 +13,10 @@
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
 </p>
 
+<p>
+     <a href="https://gendotai.wordpress.com/">gendotai.wordpress.com</a>
+</p>
+
 This is curated list of open and accessible generative AI products that can be used by anyone, regardless of their technical background. The aim of this project is to highlight the most innovative and user-friendly generative AI models that have the potential to unlock new forms of creativity and drive innovation in various fields. By compiling this list, we hope to encourage more individuals and communities to engage with generative AI and explore its possibilities.
 
 ## Explanation

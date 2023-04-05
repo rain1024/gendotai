@@ -13,7 +13,7 @@
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
 </p>
 
-<p>
+<p align="center">
      <a href="https://gendotai.wordpress.com/">gendotai.wordpress.com</a>
 </p>
 
